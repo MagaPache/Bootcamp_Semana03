@@ -1,0 +1,1 @@
+A Maven webapp with Spring and CXF trying to mapp a mock JSON response
